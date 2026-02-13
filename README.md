@@ -1,7 +1,7 @@
 # ML4DQM Evaluation Test
 
 ## Overview
-This repository contains my solution for the GSoC 2025 ML4DQM evaluation test.  
+This repository contains my solution for the ML4DQM evaluation test.  
 The task was to classify synthetic CMS HCAL datasets using a Vision Transformer (ViT)-like architecture.
 
 ## Files
